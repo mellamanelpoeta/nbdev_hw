@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "articulo.html",
+    "href": "articulo.html",
+    "title": "Articulo",
+    "section": "",
+    "text": "source\n\nArticulo\n\n Articulo (nombre:str, cantidad:int)\n\nConstructor de la clase Articulo.\n\n\n\n\nType\nDetails\n\n\n\n\nnombre\nstr\nEl nombre del artículo\n\n\ncantidad\nint\nLa cantidad a comprar\n\n\n\n\nsource\n\n\nArticulo.marcar_como_agregado\n\n Articulo.marcar_como_agregado ()\n\nMarca el artículo como agregado."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_hw",
+    "section": "",
+    "text": "This is the homework for the nbdev class"
+  },
+  {
+    "objectID": "listadesupermercado.html",
+    "href": "listadesupermercado.html",
+    "title": "Lista de supermercado",
+    "section": "",
+    "text": "source\n\nListaDeSupermercado\n\n ListaDeSupermercado ()\n\nConstructor de la clase ListaDeSupermercado.\n\nsource\n\n\nListaDeSupermercado.agregar_articulo\n\n ListaDeSupermercado.agregar_articulo (articulo:__main__.Articulo)\n\nAgrega un artículo a la lista.\n\n\n\n\nType\nDetails\n\n\n\n\narticulo\nArticulo\nEl artículo a agregar.\n\n\n\n\nsource\n\n\nListaDeSupermercado.imprimir_todos_los_articulos\n\n ListaDeSupermercado.imprimir_todos_los_articulos ()\n\nImprime todos los artículos en la lista.\n\nsource\n\n\nListaDeSupermercado.imprimir_articulos_no_agregados\n\n ListaDeSupermercado.imprimir_articulos_no_agregados ()\n\nImprime los artículos que no han sido marcados como agregados."
+  }
+]
