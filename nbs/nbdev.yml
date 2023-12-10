@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hw"
+  site-url: "https://mellamanelpoeta.github.io/nbdev_hw"
+  description: "This is the homework for the nbdev class"
+  repo-branch: main
+  repo-url: "https://github.com/mellamanelpoeta/nbdev_hw"
